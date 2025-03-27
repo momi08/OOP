@@ -1,6 +1,7 @@
 ﻿using OOP.Abstraction;
 using OOP.Composition;
 using OOP.Encapsulation;
+using OOP.Aggregation;
 
 
 // Encapsulation
@@ -18,8 +19,8 @@ using OOP.Encapsulation;
 // Polymorphism
 //OOP.Polymorphism.BadExample.BadProgram.Main();
 //OOP.Polymorphism.GoodExample.GoodProgram.Main();
-OOP.Polymorphism.MethodOverloading.Main();
-OOP.Polymorphism.OperatorOverloading.Main();
+//OOP.Polymorphism.MethodOverloading.Main();
+//OOP.Polymorphism.OperatorOverloading.Main();
 
 // Coupling
 //OOP.Coupling.BadExample.BadProgram.Main();
@@ -27,3 +28,6 @@ OOP.Polymorphism.OperatorOverloading.Main();
 
 // Composition
 //CarExample.Main();
+
+// Aggregation
+Aggregation.Main();
