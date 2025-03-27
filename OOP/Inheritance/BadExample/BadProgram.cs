@@ -1,5 +1,5 @@
 ﻿namespace OOP.Inheritance.BadExample;
-public class GoodProgram
+public class BadProgram
 {
     public static void Main()
     {
